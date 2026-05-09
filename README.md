@@ -1,9 +1,9 @@
 # AdGuard-Home-Whitelist ✅
 
-![Files](https://img.shields.io/github/directory-file-count/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
-![Size](https://img.shields.io/github/repo-size/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
-![License](https://img.shields.io/github/license/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/hl2guide/AdGuard-Home-Whitelist?style=for-the-badge)
+![Files](https://img.shields.io/github/directory-file-count/Herm71/AdGuard-Home-Whitelist?style=for-the-badge)
+![Size](https://img.shields.io/github/repo-size/Herm71/AdGuard-Home-Whitelist?style=for-the-badge)
+![License](https://img.shields.io/github/license/Herm71/AdGuard-Home-Whitelist?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Herm71/AdGuard-Home-Whitelist?style=for-the-badge)
 
 - Current Version: 1.2.8.1
 - Last Updated (AEST): 2024-12-08 15:26:00 +1100
@@ -18,7 +18,7 @@ __It's a great starting point for people who wish to run AdGuard Home in a stric
 
 ℹ Please learn [AdGuard Home's interface](https://github.com/AdguardTeam/AdGuardHome/wiki) before using this list.
 
-_AdGuard-Home-Whitelist © hl2guide 2024_
+_AdGuard-Home-Whitelist © Herm71 2024_
 
 ## 📰 Important
 
@@ -47,7 +47,7 @@ _AdGuard-Home-Whitelist © hl2guide 2024_
 | 🏦 Australian government websites | _Election, tax office etc_ |
 | 💵 Australian banking websites | _NAB, ING Direct Australia etc_ |
 
-and more.. [see whitelist as RAW](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
+and more.. [see whitelist as RAW](https://raw.githubusercontent.com/Herm71/AdGuard-Home-Whitelist/main/whitelist.txt)
 
 ### What's __Not__ Whitelisted 🛑
 
@@ -71,4 +71,4 @@ I will update this repo infrequently and sporadically.
 
 ## Usage 💚
 
-See [USAGE.md](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.
+See [USAGE.md](https://github.com/Herm71/AdGuard-Home-Whitelist/blob/main/USAGE.md) for more information.

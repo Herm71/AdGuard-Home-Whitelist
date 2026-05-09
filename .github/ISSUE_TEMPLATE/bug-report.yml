@@ -8,7 +8,7 @@ body:
       label: Checklist
       description: Ensure that our bug report form is appropriate for you.
       options:
-        - label: This is not a **[duplicate](https://github.com/hl2guide/AdGuard-Home-Whitelist/issues)** of an existing issue.
+        - label: This is not a **[duplicate](https://github.com/Herm71/AdGuard-Home-Whitelist/issues)** of an existing issue.
           required: true
 
   - type: textarea

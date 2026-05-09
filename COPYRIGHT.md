@@ -1,1 +1,1 @@
-# AdGuard-Home-Whitelist © 2021 - hl2guide
+# AdGuard-Home-Whitelist © 2021 - Herm71

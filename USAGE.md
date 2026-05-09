@@ -56,8 +56,8 @@ Add one __blocklist__ and one __allowlist__ (below).
 
 Type | Link (URL)
 --------- | -----
-🛑 Blocklist | [blocklist](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/base.txt)
-📗 Allowlist | [whitelist](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt)
+🛑 Blocklist | [blocklist](https://raw.githubusercontent.com/Herm71/AdGuard-Home-Whitelist/main/base.txt)
+📗 Allowlist | [whitelist](https://raw.githubusercontent.com/Herm71/AdGuard-Home-Whitelist/main/whitelist.txt)
 
 ### Modular
 
@@ -67,10 +67,10 @@ Add the slim one __blocklists__ and one __allowlist__ (below).
 
 Type | Link (URL)
 --------- | -----
-🛑 Blocklist | [blocklist](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/base.txt)
-📗 Allowlist | [whitelist](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist_slim.txt)
+🛑 Blocklist | [blocklist](https://raw.githubusercontent.com/Herm71/AdGuard-Home-Whitelist/main/base.txt)
+📗 Allowlist | [whitelist](https://raw.githubusercontent.com/Herm71/AdGuard-Home-Whitelist/main/whitelist_slim.txt)
 
-Then add the [modules you desire to use](https://github.com/hl2guide/AdGuard-Home-Whitelist/blob/main/MODULES.md).
+Then add the [modules you desire to use](https://github.com/Herm71/AdGuard-Home-Whitelist/blob/main/MODULES.md).
 
 ## Filters Update Interval ⏱
 
@@ -83,7 +83,7 @@ Set "Filters update interval" to 12 hours _(recommended)_ and click the green "S
 
 _(Optional but recommended to avoid query log spam)_
 
-* copy and paste [disallowed domains](https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/dns_disallowed_domains.txt)
+* copy and paste [disallowed domains](https://raw.githubusercontent.com/Herm71/AdGuard-Home-Whitelist/main/dns_disallowed_domains.txt)
 into AdGuard's "Disallowed domains" section at the bottom of "DNS settings"
 * Click the "Save" button to keep a much clearer query log
 
