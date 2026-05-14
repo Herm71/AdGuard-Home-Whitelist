@@ -154,6 +154,7 @@
 @@|www.xvideos.com^$important
 @@|www.xvideos.red^$important
 @@|xhamster.com^$important
+@@|xhamsterlive.com^$important
 @@|xvideos-cdn.com^$important
 @@|xvideos.com^$important
 @@|xxx-image.com^$important
